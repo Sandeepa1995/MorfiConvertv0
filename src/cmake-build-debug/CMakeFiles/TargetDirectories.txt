@@ -1,0 +1,3 @@
+F:/Achademic/CS/Semester 05/Software Engineering Project/MorfiConvertv0/cmake-build-debug/CMakeFiles/MorfiConvertv0.dir
+F:/Achademic/CS/Semester 05/Software Engineering Project/MorfiConvertv0/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Achademic/CS/Semester 05/Software Engineering Project/MorfiConvertv0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
